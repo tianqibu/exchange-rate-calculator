@@ -2,7 +2,7 @@
 
 This is my first project using React to create a simple exchange rate calculator. 
 
-<img style="text-align: center;" width="834" alt="Screenshot 2021-04-18 at 00 40 58" src="https://user-images.githubusercontent.com/79051888/115129535-c9ac4b00-9fde-11eb-9604-d09a2a9527b1.png">
+<img style="text-align:center;" width="834" alt="Screenshot 2021-04-18 at 00 40 58" src="https://user-images.githubusercontent.com/79051888/115129535-c9ac4b00-9fde-11eb-9604-d09a2a9527b1.png">
 
 ## Pre-requisites
 
