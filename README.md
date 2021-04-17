@@ -20,7 +20,7 @@ https://www.exchangerate-api.com/
 
 3. Save your API key in app.js (or in an .env file) and then assign your API key to a variable called 'API_KEY'
 
-### const API_KEY = <your_key>
+### `const API_KEY = <your_key>`
 
 4. In the project directory, you can then run:
 
