@@ -1,4 +1,4 @@
-# Exchange rate calculator
+# Exchange Rate Calculator
 
 This is my first project using React to create a simple exchange rate calculator. 
 
